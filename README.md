@@ -1,4 +1,4 @@
-# projeto-primeiro-periodo
+# projeto-recmarine
 # 🌊 RecMarine
 
 **RecMarine** é uma iniciativa dedicada à proteção e preservação dos oceanos. Este projeto foi desenvolvido como parte das atividades do **primeiro período do curso de Análise e Desenvolvimento de Sistemas**, com o objetivo de aplicar conhecimentos iniciais de desenvolvimento web em um tema de impacto social e ambiental.
